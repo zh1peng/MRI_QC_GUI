@@ -2,7 +2,7 @@
 #### a simple visual check for nii files (it actually calls xjview function)
 
 ## how to use:
-### 1. make a score.mat file
+### 1. make a score varible (see score.mat as an example)
 The first column is the subid (same with the directory)
 The second column is the qc score. 0,1,2 (This will generate after you click confirm)
 
@@ -18,7 +18,7 @@ data_path (you specified in the box)\subid (you specified in the score varible\ 
 
 ### 6. click confirm, the score will be saved automatically
 
-
-The GUI will be improved in the future if I have a chance.
+The original GUI was developed in 2016.
+The GUI will be improved in the future if I have a chance. 
 
 Zhipeng
