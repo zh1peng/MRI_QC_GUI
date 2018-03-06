@@ -1,0 +1,1 @@
+This version need to load a variable named 'score' in the GUI'S folder.The exsiting one is just an example. The variable contains subids you want to do QC. This will be improved in next version. Zhipeng
