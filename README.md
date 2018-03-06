@@ -8,7 +8,8 @@ The first column is the subid (same with the directory)
 The second column is the qc score. 0,1,2 (This will generate after you click confirm)
 
 ### 2. specify the data directory.
-It assumes you save the mask.nii/spmT_0001.nii file in such pattern
+It assumes you save the mask.nii/spmT_0001.nii file in such pattern:
+
 data_path (you specified in the box)\subid (you specified in the score varible\ mask.nii or spmT_0001.nii
 
 ### 3. add xjview in matlab path
